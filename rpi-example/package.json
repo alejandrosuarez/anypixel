@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "dgram": "~1.0.1",
-    "buffer": "~5.0.2",
+    "buffer": "~5.7.1",
     "rpi-ws281x-native": "~0.8.1",
     "wiring-pi": "latest"
   },
