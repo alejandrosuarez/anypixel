@@ -9,7 +9,7 @@
   "dependencies": {
     "dgram": "~1.0.1",
     "buffer": "~5.0.2",
-    "rpi-ws281x-native": "~0.8.1",
+    "rpi-ws281x-native": "~0.10.2",
     "wiring-pi": "latest"
   },
   "author": "Nick Jonas",
